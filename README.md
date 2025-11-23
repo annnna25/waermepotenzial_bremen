@@ -1,1 +1,1 @@
-# waermepotential_bremen
+# waermepotenzial_bremen
