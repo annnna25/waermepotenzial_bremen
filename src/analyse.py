@@ -2,7 +2,7 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 
 # Pfad zum Shapefile
-shapefile_path = "bremen-heat-project/data/geoportal/data/geoportal/AX_GeoreferenzierteGebaeudeadresse.shp"
+shapefile_path = "waermepotanzial_bremen/geoportal/geoportal/AX_GeoreferenzierteGebaeudeadresse.shp"
 
 # Einlesen der Gebäudedaten als GeoDataFrame
 gdf = gpd.read_file(shapefile_path)
